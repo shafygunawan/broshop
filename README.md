@@ -9,7 +9,7 @@ This is a repository containing the code for the front page of a simple e-commer
 
 ## Usage
 
-You can easily access the website through the following link: [https://shafygunawan.github.io/broshop](https://shafygunawan.github.io/broshop)
+You can easily access the website through the following link: <a href="https://shafygunawan.github.io/broshop" target="_blank">https://shafygunawan.github.io/broshop</a>
 
 ## License
 
